@@ -8,4 +8,4 @@ FiveM Ready Mini Peds 30% smaller than normal peds
 
 
 
-https://ipl-mini-peds.tebex.io/
+Download Here: https://ipl-mini-peds.tebex.io/
