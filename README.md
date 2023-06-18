@@ -6,4 +6,4 @@ FiveM Ready Mini Peds 30% smaller than normal peds. These Peds Bring So Much Joy
 ![alt text](https://i.imgur.com/qgVVKAN.png)
 ![alt text](https://i.imgur.com/UwarYQf.jpeg)
 
-Buy for $18.34 each here: https://ipl-mini-peds.tebex.io/
+Download here: https://ipl-mini-peds.tebex.io/
