@@ -17,8 +17,8 @@ These Mini Peds are designed to bring joy to the community by offering a unique 
 1. **Download:** [Mini Peds on Tebex](https://ipl-mini-peds.tebex.io/)
 
 2. **Setup:**
-    - Make a new folder in your resource folder named `[mini-peds]`
-    - Add `ensure [mini-peds]` to your `server.cfg` file.
+   - Make a new folder in your resource folder named `[mini-peds]`
+   - Add `ensure [mini-peds]` to your `server.cfg` file.
 
 3. Restart your FiveM server.
 
@@ -30,13 +30,12 @@ A big thank you to our amazing community for the support and enthusiasm around t
 
 ---
 
-<table align="center">
-  <tr> 
-    <td align="center"><img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/a8bc903919d8127660a0fcdca7ceb77369552e7e.png" alt="Mini Peds"></td>
-    <td align="center"><img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/1727d35c48ff38b9108372897548f6ee5581bd34.png" alt="Mini Peds"></td>
-    <td align="center"><img src="https://i.imgur.com/qgVVKAN.png" alt="Mini Peds"></td>
-</tr>
-<tr>
-    <td align="center"><img src="https://i.imgur.com/UwarYQf.jpeg" alt="Mini Peds"></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/a8bc903919d8127660a0fcdca7ceb77369552e7e.png" alt="Mini Peds">
+  <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/1727d35c48ff38b9108372897548f6ee5581bd34.png" alt="Mini Peds">
+  <img src="https://i.imgur.com/qgVVKAN.png" alt="Mini Peds">
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/UwarYQf.jpeg" alt="Mini Peds">
+</p>
