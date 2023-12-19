@@ -1,7 +1,4 @@
 ![alt text](https://dunb17ur4ymx4.cloudfront.net/packages/images/a8bc903919d8127660a0fcdca7ceb77369552e7e.png)
-![alt text](https://dunb17ur4ymx4.cloudfront.net/packages/images/1727d35c48ff38b9108372897548f6ee5581bd34.png)
-![alt text](https://i.imgur.com/qgVVKAN.png)
-![alt text](https://i.imgur.com/UwarYQf.jpeg)
 
 ```markdown
 # FiveM Ready Mini Peds
@@ -35,3 +32,6 @@ These Mini Peds are designed to bring joy to the community by offering a unique 
 
 A big thank you to our amazing community for the support and enthusiasm around these Mini Peds. Let's continue spreading joy together!
 
+![alt text](https://dunb17ur4ymx4.cloudfront.net/packages/images/1727d35c48ff38b9108372897548f6ee5581bd34.png)
+![alt text](https://i.imgur.com/qgVVKAN.png)
+![alt text](https://i.imgur.com/UwarYQf.jpeg)
