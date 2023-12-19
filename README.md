@@ -29,8 +29,9 @@ These Mini Peds are designed to bring joy to the community by offering a unique 
 A big thank you to our amazing community for the support and enthusiasm around these Mini Peds. Let's continue spreading joy together!
 
 ---
-
+<div align="center">
 ![Mini Peds](https://dunb17ur4ymx4.cloudfront.net/packages/images/a8bc903919d8127660a0fcdca7ceb77369552e7e.png)
 ![Mini Peds](https://dunb17ur4ymx4.cloudfront.net/packages/images/1727d35c48ff38b9108372897548f6ee5581bd34.png)
 ![Mini Peds](https://i.imgur.com/qgVVKAN.png)
 ![Mini Peds](https://i.imgur.com/UwarYQf.jpeg)
+</div>
