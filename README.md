@@ -1,3 +1,8 @@
+![alt text](https://dunb17ur4ymx4.cloudfront.net/packages/images/a8bc903919d8127660a0fcdca7ceb77369552e7e.png)
+![alt text](https://dunb17ur4ymx4.cloudfront.net/packages/images/1727d35c48ff38b9108372897548f6ee5581bd34.png)
+![alt text](https://i.imgur.com/qgVVKAN.png)
+![alt text](https://i.imgur.com/UwarYQf.jpeg)
+
 ```markdown
 # FiveM Ready Mini Peds
 
@@ -12,12 +17,6 @@ These Mini Peds are designed to bring joy to the community by offering a unique 
 - **Miniaturized Fun:** Enjoy a miniature world with peds that are 30% smaller than the norm.
 - **Community Joy:** These Mini Peds are bound to bring smiles and laughter to your community.
 - **FiveM Ready:** Seamlessly integrate these peds into your FiveM server for instant enjoyment.
-
-(https://dunb17ur4ymx4.cloudfront.net/packages/images/a8bc903919d8127660a0fcdca7ceb77369552e7e.png)
-(https://dunb17ur4ymx4.cloudfront.net/packages/images/1727d35c48ff38b9108372897548f6ee5581bd34.png)
-(https://i.imgur.com/qgVVKAN.png)
-(https://i.imgur.com/UwarYQf.jpeg)
-
 
 ## Installation
 
