@@ -35,6 +35,7 @@ A big thank you to our amazing community for the support and enthusiasm around t
     <td align="center"><img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/a8bc903919d8127660a0fcdca7ceb77369552e7e.png" alt="Mini Peds"></td>
     <td align="center"><img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/1727d35c48ff38b9108372897548f6ee5581bd34.png" alt="Mini Peds"></td>
     <td align="center"><img src="https://i.imgur.com/qgVVKAN.png" alt="Mini Peds"></td>
+  </br>
     <td align="center"><img src="https://i.imgur.com/UwarYQf.jpeg" alt="Mini Peds"></td>
   </tr>
 </table>
