@@ -1,6 +1,6 @@
 # FiveM Ready Mini Peds
 
-Enhance your FiveM experience with these adorable Mini Peds! 🚀
+Enhance your FiveM experience with these Mini Peds! 🚀
 
 ## Overview
 
