@@ -18,6 +18,7 @@ These Mini Peds are designed to bring joy to the community by offering a unique 
 
 2. **Setup:**
    - Make a new folder in your resource folder named `[mini-peds]`
+   - Copy the downloaded files into your folder named `[mini-peds]`
    - Add `ensure [mini-peds]` to your `server.cfg` file.
 
 3. Restart your FiveM server.
