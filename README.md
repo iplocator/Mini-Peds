@@ -1,34 +1,30 @@
-# FiveM Ready Mini Peds
+# Mini Peds for FiveM
 
-Enhance your FiveM experience with these Mini Peds! 🚀
+Boost your FiveM server with these adorable Mini Peds! 🎉
 
 ## Overview
 
-These Mini Peds are designed to bring joy to the community by offering a unique and delightful twist to the standard pedestrian models. What sets them apart? They are a whopping 30% smaller than the regular peds, adding a fun and quirky element to your FiveM server.
+Mini Peds add a playful twist to your FiveM experience with pedestrian models scaled down by 30%. These compact characters bring a fresh, fun vibe to your server, perfect for engaging your community.
 
 ## Features
 
-- **Miniaturized Fun:** Enjoy a miniature world with peds that are 30% smaller than the norm.
-- **Community Joy:** These Mini Peds are bound to bring smiles and laughter to your community.
-- **FiveM Ready:** Seamlessly integrate these peds into your FiveM server for instant enjoyment.
+- **Compact Size:** Peds are 30% smaller, creating a whimsical, miniature world.
+- **Community Fun:** Delight players with these quirky, smile-inducing models.
+- **FiveM Compatible:** Easily integrate Mini Peds for instant server enhancement.
 
 ## Installation
 
-1. **Download:** [Mini Peds on Tebex](https://ipl-mini-peds.tebex.io/)
-
+1. **Download:** Get Mini Peds from [Tebex](https://ipl-mini-peds.tebex.io/).
 2. **Setup:**
-   - Make a new folder in your resource folder named `[mini-peds]`
-   - Copy the downloaded files into your folder named `[mini-peds]`
-   - Add `ensure [mini-peds]` to your `server.cfg` file.
-
+   - Create a `[mini-peds]` folder in your server's resource directory.
+   - Place the downloaded files into the `[mini-peds]` folder.
+   - Add `ensure [mini-peds]` to your `server.cfg`.
 3. Restart your FiveM server.
-
-4. Have fun with your new Mini Peds!
+4. Enjoy the Mini Peds in action!
 
 ## Acknowledgements
 
-A big thank you to our amazing community for the support and enthusiasm around these Mini Peds. Let's continue spreading joy together!
-
+Huge thanks to our vibrant community for supporting and embracing these Mini Peds. Let’s keep the fun going!
 
 ---
 
