@@ -37,3 +37,4 @@ Huge thanks to our vibrant community for supporting and embracing these Mini Ped
 <p align="center">
   <img src="https://i.imgur.com/UwarYQf.jpeg" alt="Mini Peds">
 </p>
+
